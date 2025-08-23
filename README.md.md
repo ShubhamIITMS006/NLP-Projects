@@ -117,9 +117,6 @@ for electronic devices, enabling the identification of a â€œTop Complaint Listâ€
 
 
 * Aspect term extraction using BERT / DistilBERT
-* 
 * Sentiment classification at aspect level
-* 
 * Preprocessing pipeline with BIO tagging
-* 
 * Easily extendable to other domains (hospitality, retail, support)
